@@ -1,1 +1,2 @@
 # Python_Jupyter_Mini_Project_Toscano_Julia
+My Python code calculates the equation of the best fit line, correlation coefficient and the squared correlation coefficient of the data in acidmax.csv (the acid dissociation constant and electrostatic potential). It then graphs a scatterplot of the data and the best fit line. The code reads the data, sets them as x and y and then calculates the slope, intercept and R with the np.sum function. It then prints those values and plots the line in the form of y = intercept + slope * x. Just upload acidmax.csv to collab. 
